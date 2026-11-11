@@ -1,0 +1,5 @@
+# Placeholder: deliberately INVALID for protected backtests. Live NEWS_AUTO does not read this file.
+# Run ExportUsdNews on a connected terminal, or supply a verified calendar before testing.
+# The exporter will require InpOverwriteExisting=true to replace this placeholder.
+#coverage_start=REPLACE_WITH_VERIFIED_UTC_START
+#coverage_end=REPLACE_WITH_VERIFIED_UTC_END

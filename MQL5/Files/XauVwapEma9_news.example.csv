@@ -1,0 +1,7 @@
+# Example format ONLY. These headers deliberately have no valid coverage.
+# Use ExportUsdNews or supply a complete high-impact USD calendar for your test period.
+# All timestamps are UTC. HIGH uses standard buffers; FOMC uses the longer buffers.
+#coverage_start=REPLACE_WITH_VERIFIED_UTC_START
+#coverage_end=REPLACE_WITH_VERIFIED_UTC_END
+# Example event row (remove the leading # only after checking the calendar):
+#2026.10.28 18:00;FOMC;Federal Reserve policy decision

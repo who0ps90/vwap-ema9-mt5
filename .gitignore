@@ -1,0 +1,7 @@
+.verification/
+build/
+dist/*
+!dist/XauVwapEma9-MT5-v1.00.zip
+*.log
+*.ex5
+!MQL5/**/*.ex5
